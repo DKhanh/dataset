@@ -81,7 +81,7 @@ UMLS:C0018802_failure heart congestive,963,UMLS:C0392680_shortness of breath
 ,,UMLS:C0013404_dyspnea
 ,,UMLS:C0010200_cough
 ,,UMLS:C0043144_wheezing
-UMLS:C0038454_accident cerebrovascular,885,UMLS:C0013362_dysarthria
+UMLS:C0038454_accident cerebrovascular,885,UMLS:C0013362_dysarthria
 ,,UMLS:C0004093_asthenia
 ,,UMLS:C0234518_speech slurred
 ,,UMLS:C0427055_facial paresis
@@ -205,7 +205,7 @@ UMLS:C1565489_insufficiency renal,445,UMLS:C0392680_shortness of breath
 ,,UMLS:C0020461_hyperkalemia
 ,,UMLS:C0085619_orthopnea
 ,,UMLS:C0034642_rale
-,,UMLS:C0085606_urgency of micturition
+,,UMLS:C0085606_urgency of micturition
 ,,UMLS:C0003962_ascites
 ,,UMLS:C0744492_guaiac positive
 ,,UMLS:C0004093_asthenia
@@ -238,7 +238,7 @@ UMLS:C0009676_confusion,408,UMLS:C0036572_seizure
 ,,UMLS:C0040822_tremor
 ,,UMLS:C0020625_hyponatremia
 ,,UMLS:C0241526_unresponsiveness
-UMLS:C0029408_degenerative polyarthritis,405,UMLS:C0030193_pain
+UMLS:C0029408_degenerative polyarthritis,405,UMLS:C0030193_pain
 ,,UMLS:C0149696_food intolerance
 ,,UMLS:C0239832_numbness of hand
 ,,UMLS:C0858924_general discomfort
@@ -297,14 +297,14 @@ UMLS:C0700613_anxiety state,390,UMLS:C0233481_worry
 UMLS:C0006826_malignant neoplasms^UMLS:C1306459_primary malignant neoplasm,354,UMLS:C0030193_pain
 ,,UMLS:C0577559_mass of body structure
 ,,UMLS:C0221198_lesion
-,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
+,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
 ,,UMLS:C0743482_emphysematous change
 ,,UMLS:C0043096_decreased body weight
 ,,UMLS:C0003962_ascites
 ,,UMLS:C0019825_hoarseness
 ,,UMLS:C0205400_thicken
 ,,UMLS:C0018965_hematuria
-UMLS:C0001175_acquired immuno-deficiency syndrome^UMLS:C0019682_HIV^UMLS:C0019693_hiv infections,350,UMLS:C0015967_fever
+UMLS:C0001175_acquired immuno-deficiency syndrome^UMLS:C0019682_HIV^UMLS:C0019693_hiv infections,350,UMLS:C0015967_fever
 ,,UMLS:C0028081_night sweat
 ,,UMLS:C0233308_spontaneous rupture of membranes
 ,,UMLS:C0010200_cough
@@ -446,7 +446,7 @@ UMLS:C0878544_cardiomyopathy,283,UMLS:C0392680_shortness of breath
 ,,UMLS:C0034642_rale
 ,,UMLS:C0013404_dyspnea
 ,,UMLS:C0231807_dyspnea on exertion
-,,UMLS:C0238705_left atrial hypertrophy
+,,UMLS:C0238705_left atrial hypertrophy
 ,,UMLS:C0015672_fatigue
 ,,UMLS:C0043094_weight gain
 ,,UMLS:C0376405_patient non compliance
@@ -645,7 +645,7 @@ UMLS:C0022660_kidney failure acute,186,UMLS:C0020461_hyperkalemia
 ,,UMLS:C0028961_oliguria
 ,,UMLS:C0578150_hemodynamically stable
 ,,UMLS:C0004093_asthenia
-,,"UMLS:C0020672_hypothermia, natural"
+",,""UMLS:C0020672_hypothermia, natural"""
 ,,UMLS:C0011991_diarrhea
 ,,UMLS:C0019080_haemorrhage
 ,,UMLS:C0241526_unresponsiveness
@@ -656,7 +656,7 @@ UMLS:C0026266_mitral valve insufficiency,186,UMLS:C0392680_shortness of breath
 ,,UMLS:C0013404_dyspnea
 ,,UMLS:C0039070_syncope
 ,,UMLS:C0205400_thicken
-,,UMLS:C0238705_left atrial hypertrophy
+,,UMLS:C0238705_left atrial hypertrophy
 ,,UMLS:C0030252_palpitation
 ,,UMLS:C0015672_fatigue
 ,,UMLS:C0042963_vomiting
@@ -791,7 +791,7 @@ UMLS:C0021167_incontinence,165,UMLS:C0221166_paraparesis
 ,,UMLS:C0085639_fall
 ,,UMLS:C0427008_stiffness
 ,,UMLS:C0241526_unresponsiveness
-UMLS:C0013405_paroxysmal dyspnea,165,UMLS:C0085619_orthopnea
+UMLS:C0013405_paroxysmal dyspnea,165,UMLS:C0085619_orthopnea
 ,,UMLS:C0392680_shortness of breath
 ,,UMLS:C0231807_dyspnea on exertion
 ,,UMLS:C0240100_jugular venous distention
@@ -841,7 +841,7 @@ UMLS:C0376358_malignant neoplasm of prostate^UMLS:C0600139_carcinoma prostate,16
 ,,UMLS:C0035508_rhonchus
 ,,UMLS:C0149746_orthostasis
 ,,UMLS:C0043096_decreased body weight
-UMLS:C0034063_edema pulmonary,161,UMLS:C0085606_urgency of micturition
+UMLS:C0034063_edema pulmonary,161,UMLS:C0085606_urgency of micturition
 ,,UMLS:C0392680_shortness of breath
 ,,UMLS:C0034642_rale
 ,,UMLS:C0231835_tachypnea
@@ -923,7 +923,7 @@ UMLS:C0012813_diverticulitis,145,UMLS:C0000737_pain abdominal
 ,,UMLS:C0015967_fever
 ,,UMLS:C1273573_unsteady gait
 ,,UMLS:C0205400_thicken
-,,UMLS:C0085606_urgency of micturition
+,,UMLS:C0085606_urgency of micturition
 ,,UMLS:C0003123_anorexia
 ,,UMLS:C0746619_monoclonal
 ,,UMLS:C0009806_constipation
@@ -1073,7 +1073,7 @@ UMLS:C0020542_hypertension pulmonary,128,UMLS:C0392680_shortness of breath
 ,,UMLS:C0231807_dyspnea on exertion
 ,,UMLS:C0010520_cyanosis
 ,,UMLS:C0020649_hypotension
-,,UMLS:C0238705_left atrial hypertrophy
+,,UMLS:C0238705_left atrial hypertrophy
 UMLS:C0011168_deglutition disorder,126,UMLS:C0030554_paresthesia
 ,,UMLS:C0231690_titubation
 ,,UMLS:C0013362_dysarthria
@@ -1101,7 +1101,7 @@ UMLS:C0018099_gout,124,UMLS:C0600142_hot flush
 ,,UMLS:C0376405_patient non compliance
 UMLS:C0040034_thrombocytopaenia,123,UMLS:C0013491_ecchymosis
 ,,UMLS:C0085702_monocytosis
-,,UMLS:C0032781_posterior rhinorrhea
+,,UMLS:C0032781_posterior rhinorrhea
 ,,UMLS:C0019080_haemorrhage
 ,,UMLS:C0231835_tachypnea
 ,,UMLS:C0015967_fever
@@ -1109,7 +1109,7 @@ UMLS:C0040034_thrombocytopaenia,123,UMLS:C0013491_ecchymosis
 ,,UMLS:C0020649_hypotension
 ,,UMLS:C0015672_fatigue
 UMLS:C0020615_hypoglycemia,122,UMLS:C0241526_unresponsiveness
-,,"UMLS:C0020672_hypothermia, natural"
+",,""UMLS:C0020672_hypothermia, natural"""
 ,,UMLS:C0542044_incoherent
 ,,UMLS:C0151878_qt interval prolonged
 ,,UMLS:C0311395_lameness^UMLS:C1456822_claudication
@@ -1185,7 +1185,7 @@ UMLS:C0038663_suicide attempt,114,UMLS:C0233762_hallucinations auditory
 ,,UMLS:C0041657_unconscious state
 ,,UMLS:C0015967_fever
 ,,UMLS:C0010200_cough
-UMLS:C0032305_Pneumocystis carinii pneumonia,113,UMLS:C0457096_yellow sputum
+UMLS:C0032305_Pneumocystis carinii pneumonia,113,UMLS:C0457096_yellow sputum
 ,,UMLS:C0006625_cachexia
 ,,UMLS:C0085593_chill
 ,,UMLS:C0043096_decreased body weight
@@ -1246,7 +1246,7 @@ UMLS:C0020456_hyperglycemia,104,UMLS:C0234233_sore to touch
 ,,UMLS:C0033774_pruritus
 ,,UMLS:C0235129_feeling strange
 ,,UMLS:C0241157_pustule
-,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
+,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
 ,,UMLS:C0043096_decreased body weight
 ,,UMLS:C0344315_mood depressed
 ,,UMLS:C0239301_estrogen use
@@ -1403,7 +1403,7 @@ UMLS:C0014549_tonic-clonic epilepsy^UMLS:C0494475_tonic-clonic seizures,92,UMLS:
 ,,UMLS:C0037763_spasm
 ,,UMLS:C0043096_decreased body weight
 ,,UMLS:C1269955_tumor cell invasion
-UMLS:C0006826_malignant neoplasms,90,UMLS:C0232118_pulsus paradoxus
+UMLS:C0006826_malignant neoplasms,90,UMLS:C0232118_pulsus paradoxus
 ,,UMLS:C1291692_gravida 10
 ,,UMLS:C0577559_mass of body structure
 ,,UMLS:C0221198_lesion
@@ -1446,7 +1446,7 @@ UMLS:C0017160_gastroenteritis,87,UMLS:C0000737_pain abdominal
 ,,UMLS:C0027497_nausea
 ,,UMLS:C0043096_decreased body weight
 ,,UMLS:C0234233_sore to touch
-,,UMLS:C0240962_scleral icterus
+,,UMLS:C0240962_scleral icterus
 ,,UMLS:C0015967_fever
 ,,UMLS:C0231528_myalgia
 ,,UMLS:C0020625_hyponatremia
@@ -1512,7 +1512,7 @@ UMLS:C0019204_primary carcinoma of the liver cells,82,UMLS:C0577559_mass of body
 ,,UMLS:C0205400_thicken
 ,,UMLS:C0085632_indifferent mood
 ,,UMLS:C0006625_cachexia
-,,"UMLS:C0020672_hypothermia, natural"
+",,""UMLS:C0020672_hypothermia, natural"""
 ,,UMLS:C0000737_pain abdominal
 ,,UMLS:C0019209_hepatomegaly
 ,,UMLS:C0744727_hematocrit decreased
@@ -1588,7 +1588,7 @@ UMLS:C0028756_obesity morbid,76,UMLS:C0848168_out of breath
 ,,UMLS:C0010200_cough
 ,,UMLS:C0847488_unhappy
 ,,UMLS:C0553668_labored breathing
-,,"UMLS:C0020672_hypothermia, natural"
+",,""UMLS:C0020672_hypothermia, natural"""
 ,,UMLS:C0013404_dyspnea
 ,,UMLS:C0744727_hematocrit decreased
 ,,UMLS:C0043144_wheezing
@@ -1597,7 +1597,7 @@ UMLS:C0028756_obesity morbid,76,UMLS:C0848168_out of breath
 ,,UMLS:C0424749_feels hot/feverish
 UMLS:C0034186_pyelonephritis,74,UMLS:C0015967_fever
 ,,UMLS:C0030193_pain
-,,UMLS:C0085606_urgency of micturition
+,,UMLS:C0085606_urgency of micturition
 ,,UMLS:C0018965_hematuria
 ,,UMLS:C0042963_vomiting
 ,,UMLS:C0085593_chill
@@ -1622,7 +1622,7 @@ UMLS:C0014118_endocarditis,71,UMLS:C0008033_pleuritic pain
 ,,UMLS:C0238844_breath sounds decreased
 ,,UMLS:C0043096_decreased body weight
 ,,
-,,UMLS:C0232118_pulsus paradoxus
+,,UMLS:C0232118_pulsus paradoxus
 ,,UMLS:C0086439_hypokinesia
 UMLS:C0031039_effusion pericardial^UMLS:C1253937_pericardial effusion body substance,71,UMLS:C0232267_pericardial friction rub
 ,,UMLS:C0013404_dyspnea
@@ -1689,7 +1689,7 @@ UMLS:C0020433_hyperbilirubinemia,68,UMLS:C0010520_cyanosis
 ,,UMLS:C0233070_para 1
 ,,UMLS:C0428977_bradycardia
 ,,UMLS:C0006157_breech presentation
-,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
+,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
 ,,UMLS:C0010200_cough
 ,,UMLS:C0231528_myalgia
 UMLS:C0021400_influenza,68,UMLS:C0242143_uncoordination
@@ -1701,7 +1701,7 @@ UMLS:C0021400_influenza,68,UMLS:C0242143_uncoordination
 ,,UMLS:C0742985_debilitation
 ,,UMLS:C0436331_symptom aggravating factors
 ,,UMLS:C0085593_chill
-,,UMLS:C0240962_scleral icterus
+,,UMLS:C0240962_scleral icterus
 ,,UMLS:C0277873_nasal flaring
 ,,UMLS:C0013428_dysuria
 ,,UMLS:C0542073_lip smacking
@@ -1754,7 +1754,7 @@ UMLS:C0008325_cholecystitis,66,UMLS:C0859032_moan
 ,,UMLS:C0009806_constipation
 ,,UMLS:C0474505_feces in rectum
 ,,UMLS:C0702118_abnormally hard consistency
-UMLS:C0019291_hernia hiatal,61,UMLS:C0000737_pain abdominal
+UMLS:C0019291_hernia hiatal,61,UMLS:C0000737_pain abdominal
 ,,UMLS:C0231230_fatigability
 ,,UMLS:C0240805_prodrome
 ,,UMLS:C0042963_vomiting
@@ -1780,21 +1780,21 @@ UMLS:C0030312_pancytopenia,61,UMLS:C0020639_hypoproteinemia
 ,,UMLS:C0015672_fatigue
 ,,UMLS:C0019080_haemorrhage
 ,,UMLS:C0231230_fatigability
-,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
+,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
 ,,UMLS:C0241252_stool color yellow
 ,,UMLS:C0232488_colic abdominal
 UMLS:C0008350_cholelithiasis^UMLS:C0242216_biliary calculus,61,UMLS:C0042963_vomiting
 ,,UMLS:C0027497_nausea
 ,,UMLS:C0000737_pain abdominal
 ,,UMLS:C0030193_pain
-,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
+,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
 ,,UMLS:C0003962_ascites
 ,,UMLS:C0205400_thicken
 ,,UMLS:C0234233_sore to touch
 ,,UMLS:C0011991_diarrhea
 ,,UMLS:C0277797_apyrexial
 ,,UMLS:C0030252_palpitation
-UMLS:C0039239_tachycardia sinus,56,UMLS:C0238705_left atrial hypertrophy
+UMLS:C0039239_tachycardia sinus,56,UMLS:C0238705_left atrial hypertrophy
 ,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
 ,,UMLS:C0556346_alcohol binge episode
 ,,UMLS:C0438716_pressure chest
