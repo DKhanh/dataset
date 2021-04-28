@@ -645,7 +645,7 @@ UMLS:C0022660_kidney failure acute,186,UMLS:C0020461_hyperkalemia
 ,,UMLS:C0028961_oliguria
 ,,UMLS:C0578150_hemodynamically stable
 ,,UMLS:C0004093_asthenia
-",,""UMLS:C0020672_hypothermia, natural"""
+,,UMLS:C0020672_hypothermia, natural
 ,,UMLS:C0011991_diarrhea
 ,,UMLS:C0019080_haemorrhage
 ,,UMLS:C0241526_unresponsiveness
@@ -1109,7 +1109,7 @@ UMLS:C0040034_thrombocytopaenia,123,UMLS:C0013491_ecchymosis
 ,,UMLS:C0020649_hypotension
 ,,UMLS:C0015672_fatigue
 UMLS:C0020615_hypoglycemia,122,UMLS:C0241526_unresponsiveness
-",,""UMLS:C0020672_hypothermia, natural"""
+,,UMLS:C0020672_hypothermia, natural
 ,,UMLS:C0542044_incoherent
 ,,UMLS:C0151878_qt interval prolonged
 ,,UMLS:C0311395_lameness^UMLS:C1456822_claudication
@@ -1512,7 +1512,7 @@ UMLS:C0019204_primary carcinoma of the liver cells,82,UMLS:C0577559_mass of body
 ,,UMLS:C0205400_thicken
 ,,UMLS:C0085632_indifferent mood
 ,,UMLS:C0006625_cachexia
-",,""UMLS:C0020672_hypothermia, natural"""
+,,UMLS:C0020672_hypothermia, natural
 ,,UMLS:C0000737_pain abdominal
 ,,UMLS:C0019209_hepatomegaly
 ,,UMLS:C0744727_hematocrit decreased
@@ -1588,7 +1588,7 @@ UMLS:C0028756_obesity morbid,76,UMLS:C0848168_out of breath
 ,,UMLS:C0010200_cough
 ,,UMLS:C0847488_unhappy
 ,,UMLS:C0553668_labored breathing
-",,""UMLS:C0020672_hypothermia, natural"""
+,,UMLS:C0020672_hypothermia, natural
 ,,UMLS:C0013404_dyspnea
 ,,UMLS:C0744727_hematocrit decreased
 ,,UMLS:C0043144_wheezing
